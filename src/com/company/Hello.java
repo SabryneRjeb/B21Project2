@@ -8,5 +8,6 @@ public class Hello {
         // line 3
         // line 4
         // what now
+        // with the step we merged log in branch to the master branch
     }
 }
